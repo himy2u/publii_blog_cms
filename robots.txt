@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://himy2u.github.io/publii_blog_cms/sitemap.xml

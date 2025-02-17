@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>AI Engineering and Insights</title>
+    <link href="https://himy2u.github.io/publii_blog_cms/feed.xml" rel="self" />
+    <link href="https://himy2u.github.io/publii_blog_cms" />
+    <updated>2025-02-17T00:09:29-05:00</updated>
+    <author>
+        <name>Himanshu</name>
+    </author>
+    <id>https://himy2u.github.io/publii_blog_cms</id>
+
+    <entry>
+        <title>DataOps 10</title>
+        <author>
+            <name>Himanshu</name>
+        </author>
+        <link href="https://himy2u.github.io/publii_blog_cms/dataops-10.html"/>
+        <id>https://himy2u.github.io/publii_blog_cms/dataops-10.html</id>
+
+        <updated>2025-02-16T18:53:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Infrastructure as Code in Data Engineering Imagine manually setting up and managing your cloud infrastructure every time you deploy a new feature/data pipeline&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+</feed>

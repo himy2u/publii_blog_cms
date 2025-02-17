@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AI Engineering and Insights",
+    "description": "",
+    "home_page_url": "https://himy2u.github.io/publii_blog_cms",
+    "feed_url": "https://himy2u.github.io/publii_blog_cms/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Himanshu"
+    },
+    "items": [
+        {
+            "id": "https://himy2u.github.io/publii_blog_cms/dataops-10.html",
+            "url": "https://himy2u.github.io/publii_blog_cms/dataops-10.html",
+            "title": "DataOps 10",
+            "summary": "Infrastructure as Code in Data Engineering Imagine manually setting up and managing your cloud infrastructure every time you deploy a new feature/data pipeline&hellip;",
+            "author": {
+                "name": "Himanshu"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-16T18:53:29-05:00",
+            "date_modified": "2025-02-17T00:09:29-05:00"
+        }
+    ]
+}
