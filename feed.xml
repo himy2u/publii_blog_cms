@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AI Engineering and Insights</title>
-    <link href="https://himy2u.github.io/publii_blog_cms/feed.xml" rel="self" />
-    <link href="https://himy2u.github.io/publii_blog_cms" />
+    <link href="https://aiops-insights.com/feed.xml" rel="self" />
+    <link href="https://aiops-insights.com" />
     <updated>2025-02-17T00:09:29-05:00</updated>
     <author>
         <name>Himanshu</name>
     </author>
-    <id>https://himy2u.github.io/publii_blog_cms</id>
+    <id>https://aiops-insights.com</id>
 
     <entry>
         <title>DataOps 10</title>
         <author>
             <name>Himanshu</name>
         </author>
-        <link href="https://himy2u.github.io/publii_blog_cms/dataops-10.html"/>
-        <id>https://himy2u.github.io/publii_blog_cms/dataops-10.html</id>
+        <link href="https://aiops-insights.com/dataops-10.html"/>
+        <id>https://aiops-insights.com/dataops-10.html</id>
 
         <updated>2025-02-16T18:53:29-05:00</updated>
             <summary>
